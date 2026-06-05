@@ -1,11 +1,13 @@
-# Hola, soy Julián 👋
+# Hola, soy Julián 
 
-Estudiante de Ingeniería de Sistemas enfocado en desarrollo de software y aplicaciones Full Stack.
+Soy un estudiante de Ingeniería de Sistemas enfocado en desarrollo de software y aplicaciones Full Stack.
 
 ## Tecnologías
 
 - Python
+- Java
 - FastAPI
+- Node.js
 - Flutter
 - PostgreSQL
 - TypeScript
@@ -13,11 +15,11 @@ Estudiante de Ingeniería de Sistemas enfocado en desarrollo de software y aplic
 
 ## Proyectos Destacados
 
-### Biblioteca Virtual
-Sistema Full Stack para gestión de préstamos y catálogo de libros.
-
 ### Aplicación Flutter
 Aplicación móvil desarrollada con Flutter para Android.
+
+### ChatBot y generador de FAQS
+Aplicación móvil hecha con Flutter y FastAPI
 
 ## Actualmente aprendiendo
 
