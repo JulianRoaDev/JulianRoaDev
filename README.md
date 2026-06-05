@@ -15,11 +15,14 @@ Soy un estudiante de Ingeniería de Sistemas enfocado en desarrollo de software 
 
 ## Proyectos Destacados
 
-### Aplicación Flutter
-Aplicación móvil desarrollada con Flutter para Android.
+### ✅ Colombia Comparte Mobile
+Aplicación móvil desarrollada con Flutter y TypeScript para andriod.
 
-### ChatBot y generador de FAQS
-Aplicación móvil hecha con Flutter y FastAPI
+### ✅ ChatBot y generador de FAQS
+Aplicación móvil desarrollada con Flutter y FastAPI para android.
+
+### ✅ MMT
+Aplicación web desarrollada con Java y Tailwind.
 
 ## Actualmente aprendiendo
 
